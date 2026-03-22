@@ -1,2 +1,2 @@
-🚀 <span align="center">Hey, I'm [Your Name]</span>
+🚀 <span align="center">Hey, I'm Emmanuel</span>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;AI+Product+Builder;I+build+real-world+AI+apps;Open+to+US+%26+Canada+roles&center=true&width=500&height=45"> </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-AI%20%2B%20SaaS-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Building-Production%20Apps-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20to-Opportunities-orange?style=for-the-badge" /> </p>
