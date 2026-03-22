@@ -42,7 +42,7 @@
 
 🛠️ `Next.js` `FastAPI` `OpenAI` `Vector DB` `JWT`
 
-🔗 [View Project](#/AdocQuery)
+🔗 [View Project](/AdocQuery)
 
 ---
 
@@ -64,7 +64,7 @@
 
 🛠️ `Next.js` `FastAPI` `OpenAI` `Clerk`
 
-🔗 [View Project](#)
+🔗 [View Project](/MediNotes)
 
 ---
 
@@ -83,7 +83,7 @@
 
 🛠️ `Next.js` `Clerk` `OpenAI`
 
-🔗 [View Project](#)
+🔗 [View Project](/lets-get-rich)
 
 ---
 
@@ -102,7 +102,7 @@
 
 🛠️ `AWS` `Docker` `Next.js`
 
-🔗 [View Project](#)
+🔗 [View Project](/cura)
 
 ---
 
@@ -126,9 +126,8 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/emmanuel-olufelo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="eolufelo@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
