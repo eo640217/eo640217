@@ -42,11 +42,30 @@
 
 🛠️ `Next.js` `FastAPI` `OpenAI` `Vector DB` `JWT`
 
-🔗 [View Project](/AdocQuery)
+🔗 [View Project](https://github.com/eo640217/AdocQuery)
 
 ---
 
-### 🥈 Healthcare Consultation AI Assistant  
+### 🥈CURA — AI-Integrated Full Stack App  
+<p>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange" />
+  <img src="https://img.shields.io/badge/Deploy-Docker-blue" />
+</p>
+
+> Scalable AI-powered application
+
+✨ **Highlights**
+- AI feature integration  
+- AWS deployment with Docker  
+- S3 storage + backend APIs  
+
+🛠️ `AWS` `Docker` `Next.js`
+
+🔗 [View Project](https://github.com/eo640217/CURA)
+
+---
+
+### 🥉 Healthcare Consultation AI Assistant  
 <p>
   <img src="https://img.shields.io/badge/AI-Healthcare-red" />
   <img src="https://img.shields.io/badge/Auth-JWT-blue" />
@@ -64,11 +83,11 @@
 
 🛠️ `Next.js` `FastAPI` `OpenAI` `Clerk`
 
-🔗 [View Project](/MediNotes)
+🔗 [View Project](https://github.com/eo640217/MediNotes)
 
 ---
 
-### 🥉 AI SaaS Idea Generator  
+### 🏅 AI SaaS Idea Generator  
 <p>
   <img src="https://img.shields.io/badge/Streaming-SSE-blue" />
   <img src="https://img.shields.io/badge/Auth-Clerk-purple" />
@@ -83,26 +102,8 @@
 
 🛠️ `Next.js` `Clerk` `OpenAI`
 
-🔗 [View Project](/lets-get-rich)
+🔗 [View Project](https://github.com/eo640217/lets-get-rich)
 
----
-
-### 🏅 CURA — AI-Integrated Full Stack App  
-<p>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange" />
-  <img src="https://img.shields.io/badge/Deploy-Docker-blue" />
-</p>
-
-> Scalable AI-powered application
-
-✨ **Highlights**
-- AI feature integration  
-- AWS deployment with Docker  
-- S3 storage + backend APIs  
-
-🛠️ `AWS` `Docker` `Next.js`
-
-🔗 [View Project](/cura)
 
 ---
 
