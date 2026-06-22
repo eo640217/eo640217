@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Emmanuel%20Olufelo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Product%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Emmanuel Olufelo" />
+<img src="banner.png" width="100%" alt="Emmanuel Olufelo — Full-Stack Engineer | AI Product Builder" />
 
 <p align="center">
   <i>I care less about the model and more about the system around it — the auth, billing, retrieval, and reliability work that turns a demo into something people actually pay for.</i>
@@ -30,7 +30,7 @@ I'm most interested in problems where good engineering and a real product instin
 <tr>
 <td width="50%" valign="top">
 <br>
-<a href="https://cura-web-three.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=2563EB&center=false&vCenter=true&width=170&height=42&lines=CURA" alt="CURA" /></a>
+<a href="https://cura-web-three.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=999999&color=2563EB&center=false&vCenter=true&width=185&height=42&lines=CURA" alt="CURA" /></a>
 <br>
 Full-stack care home management platform with multi-tenant architecture, role-based access control, and AWS deployment.
 <br><br>
@@ -40,7 +40,7 @@ Full-stack care home management platform with multi-tenant architecture, role-ba
 </td>
 <td width="50%" valign="top">
 <br>
-<a href="https://www.eolufelo.com/work/mealsy"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=2563EB&center=false&vCenter=true&width=190&height=42&lines=Mealsy" alt="Mealsy" /></a>
+<a href="https://www.eolufelo.com/work/mealsy"><img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=999999&color=2563EB&center=false&vCenter=true&width=215&height=42&lines=Mealsy" alt="Mealsy" /></a>
 <br>
 MERN e-commerce platform for browsing and ordering meals, with cart, checkout, and order management built end to end.
 <br><br>
@@ -53,7 +53,7 @@ MERN e-commerce platform for browsing and ordering meals, with cart, checkout, a
 <!-- DocQuery: replace this whole cell with your resume app when it's ready -->
 <td width="50%" valign="top">
 <br>
-<a href="https://www.eolufelo.com/work/DocQuery"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=2563EB&center=false&vCenter=true&width=230&height=42&lines=DocQuery" alt="DocQuery" /></a>
+<a href="https://www.eolufelo.com/work/DocQuery"><img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=999999&color=2563EB&center=false&vCenter=true&width=255&height=42&lines=DocQuery" alt="DocQuery" /></a>
 <br>
 Multi-document contract AI that answers from your documents with grounded, source-cited responses and real-time streaming.
 <br><br>
